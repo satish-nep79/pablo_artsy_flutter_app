@@ -50,8 +50,8 @@ Pablo Artsy is a Flutter-based application designed to connect art lovers and cr
 1.  **Clone the repository:**
 
 ```bash
-	git clone https://github.com/yourusername/pablo-artsy.git
-	cd pablo-artsy
+	git clone https://github.com/satish-nep79/pablo_artsy_flutter_app.git
+	cd pablo_artsy_flutter_app
 ```
 
 2.  **Install dependencies:**
